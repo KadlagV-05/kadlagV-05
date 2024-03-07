@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learnig **Python and Go lang**
 
-- 💬 Ask me about anything  **AWS,Devops,open-source**
-
 - 📫 How to reach me **vinaykadlag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
